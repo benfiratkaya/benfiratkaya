@@ -12,9 +12,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="40" height="40"/>
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>
-<img src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=FF2C1F" width="40" height="40"/>
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40"/>
+<img src="https://icongr.am/devicon/bootstrap-original.svg?size=128&color=702CF7" width="40" height="40"/>
+<img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="40"/>
 </p>
 
