@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fırat</h1>
+<p align="center">I am a Full Stack Developer and entrepreneur who enjoys creating and managing projects. I am actively developing the LeaderOS and Shopixel projects. With LeaderOS, we provide services to more than 1000 websites</p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benfiratkaya&label=Profile%20views&color=0e75b6&style=flat" alt="benfiratkaya" /> </p>
 
