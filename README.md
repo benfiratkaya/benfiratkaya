@@ -23,7 +23,8 @@
 <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benfiratkaya&show_icons=true&locale=en&layout=compact" alt="benfiratkaya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benfiratkaya&" alt="benfiratkaya" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benfiratkaya&show_icons=true&locale=en&layout=compact" alt="benfiratkaya" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benfiratkaya&" alt="benfiratkaya" />
+</p>
 
