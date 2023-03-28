@@ -13,7 +13,9 @@
 <p align="left">
 <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=FF2C1F" width="40" height="40"/>
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40"/>
